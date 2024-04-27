@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin6</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="tip_amount_0_00">Tip Amount: $0.00</string>
+    <string name="calc">Калькулятор чаевых</string>
+    <string name="bill_count">Bill count</string>
+    <string name="tip_amount">Tip Amount %1$s</string>
+    <string name="tip_percentage">Tip percentage</string>
+    <string name="round_up_tip">Round up tip?</string>
+</resources>
